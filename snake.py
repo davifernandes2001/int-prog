@@ -1,6 +1,6 @@
 import pygame, random
 from pygame.locals import *
-
+//teste
 def on_grid_random():
     x = random.randint(0,590)
     y = random.randint(0,590)
