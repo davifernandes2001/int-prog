@@ -1,0 +1,5 @@
+Captura de tela de 2021-11-30 21-48-46.png
+README.md
+novo.txt
+prova-de-conceito.png
+snake.py
